@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.2cce8147.chunk.css",
-    "main.js": "/repository-name/static/js/main.f55321f3.chunk.js",
-    "main.js.map": "/repository-name/static/js/main.f55321f3.chunk.js.map",
-    "runtime~main.js": "/repository-name/static/js/runtime~main.64d06056.js",
-    "runtime~main.js.map": "/repository-name/static/js/runtime~main.64d06056.js.map",
-    "static/js/2.2242db9b.chunk.js": "/repository-name/static/js/2.2242db9b.chunk.js",
-    "static/js/2.2242db9b.chunk.js.map": "/repository-name/static/js/2.2242db9b.chunk.js.map",
-    "index.html": "/repository-name/index.html",
-    "precache-manifest.45512d82775ba8d7aa08a607e2733697.js": "/repository-name/precache-manifest.45512d82775ba8d7aa08a607e2733697.js",
-    "service-worker.js": "/repository-name/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/repository-name/static/css/main.2cce8147.chunk.css.map"
+    "main.css": "/stock-market-historical-data-with-form/static/css/main.2cce8147.chunk.css",
+    "main.js": "/stock-market-historical-data-with-form/static/js/main.196afda8.chunk.js",
+    "main.js.map": "/stock-market-historical-data-with-form/static/js/main.196afda8.chunk.js.map",
+    "runtime~main.js": "/stock-market-historical-data-with-form/static/js/runtime~main.05486857.js",
+    "runtime~main.js.map": "/stock-market-historical-data-with-form/static/js/runtime~main.05486857.js.map",
+    "static/js/2.2242db9b.chunk.js": "/stock-market-historical-data-with-form/static/js/2.2242db9b.chunk.js",
+    "static/js/2.2242db9b.chunk.js.map": "/stock-market-historical-data-with-form/static/js/2.2242db9b.chunk.js.map",
+    "index.html": "/stock-market-historical-data-with-form/index.html",
+    "precache-manifest.991eea83a5090185b41b960dcecccbce.js": "/stock-market-historical-data-with-form/precache-manifest.991eea83a5090185b41b960dcecccbce.js",
+    "service-worker.js": "/stock-market-historical-data-with-form/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/stock-market-historical-data-with-form/static/css/main.2cce8147.chunk.css.map"
   }
 }
